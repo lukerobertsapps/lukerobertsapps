@@ -1,11 +1,11 @@
-### Hi There 👋
+## Hi There 👋
 
-##### About
+#### About
 Hi, I’m Luke and I’m an iOS Swift Developer. I’m 18 years old and am currently
 doing a degree apprenticeship, working full time as an iOS developer and also
 studying at the Univeristy of Suffolk.
 
-##### Find Me
+#### Find Me
 * 🌍 [Website/Blog](https://lukeroberts.co/)
 * 🐦 [Twitter](https://twitter.com/lukerobertsapps)
 * 📷 [Instagram](https://www.instagram.com/lukerobertsapps/)
