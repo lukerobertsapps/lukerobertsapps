@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi There 👋
 
-<!--
-**lukerobertsapps/lukerobertsapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### About
+Hi, I’m Luke and I’m an iOS Swift Developer. I’m 18 years old and am currently
+doing a degree apprenticeship, working full time as an iOS developer and also
+studying at the Univeristy of Suffolk.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Find Me
+* 🌍 [Website/Blog](https://lukeroberts.co/)
+* 🐦 [Twitter](https://twitter.com/lukerobertsapps)
+* 📷 [Instagram](https://www.instagram.com/lukerobertsapps/)
+* 👨‍💻 [LinkedIn](https://www.linkedin.com/in/luke-roberts-46b80418a/)
